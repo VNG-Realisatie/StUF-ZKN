@@ -9,8 +9,7 @@ StUF Zaken (STUF-ZKN) is een berichtenstandaard opgesteld op basis van
 het Standaard Uitwisseling Formaat (<span style="color:red">StUF</span>) voor het uitwisselen van
 gegevens die zijn beschreven in het Referentiemodel Gemeentelijke
 Basisgegevens Zakens (<span style="color:red">RGBZ 1.0</span>). STUF-ZKN is een
-standaard die voortbouwt op StUF en <span style="color:red">StUF-BG</span>
-](Sectormodel_Basisgegevens:_StUF-BG "wikilink") en voorziet in een
+standaard die voortbouwt op StUF en [StUF-BG](https://vng-realisatie.github.io/StUF-BG/) en voorziet in een
 grote hoeveelheid berichten waarmee applicaties zaakgerelateerde
 gegevens zoals zaken, besluiten en documenten kunnen uitwisselen.
 
