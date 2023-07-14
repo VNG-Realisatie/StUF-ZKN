@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documenten StUF-ZKN
+title: Documentatie StUF-ZKN
 folder_files:
   - title: Extra-elementen_voor_zkn0310.zip
     path: documenten/Extra-elementen_voor_zkn0310.zip
