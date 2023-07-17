@@ -6,7 +6,7 @@ title: StUF-ZKN
 
 **Actuele versie:** 3.10  
 StUF Zaken (STUF-ZKN) is een berichtenstandaard opgesteld op basis van
-het Standaard Uitwisseling Formaat (<span style="color:red">StUF</span>) voor het uitwisselen van
+het Standaard Uitwisseling Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor het uitwisselen van
 gegevens die zijn beschreven in het Referentiemodel Gemeentelijke
 Basisgegevens Zakens (<span style="color:red">RGBZ 1.0</span>). STUF-ZKN is een
 standaard die voortbouwt op StUF en [StUF-BG](https://vng-realisatie.github.io/StUF-BG/) en voorziet in een
@@ -26,13 +26,13 @@ Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF-ZKN
 
 ## StUF-ZKN 3.10
 
-StUF-ZKN 3.10 is afgeleid van de gegevensstandaard [RGBZ
-1.0](Informatiemodel_Zaken_(RGBZ) "wikilink") en het bevat een aantal
+StUF-ZKN 3.10 is afgeleid van de gegevensstandaard<span style="color:red">RGBZ
+1.0</span> en het bevat een aantal
 generieke berichten. Naast de generieke berichten bevat StUF-ZKN 3.10 de
 ZS-DMS-berichtencatalogus. Deze berichtencatalogus bevat specifieke
 berichten voor een veertien specifieke en veelvoorkomende gebeurtenissen
-binnen het zaakgericht werken en wordt gebruikt door het [ Zaak- en
-Documentservices](Zaak-Document_services "wikilink") koppelvlak. Dat
+binnen het zaakgericht werken en wordt gebruikt door het [Zaak- en
+Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/) koppelvlak. Dat
 koppelvlak is een aanscherping op StUF-ZKN en CMIS (Content Management
 Interoperability Services), een internationale set van afspraken voor
 het uitwisselen en opvragen van documenten. De volgende standaarden zijn
@@ -40,7 +40,7 @@ gerelateerd met StUF-ZKN 3.10:
 
 - [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/)
   *(actuele versie: 1.2)*
-- <span style="color:red">Documentcreatieservices</span>
+- [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/)
   *(actuele versie: 1.1)*
 - <span style="color:red">Toezicht- en Handhavenservices</span>
   *(actuele versie: 2.0)*
