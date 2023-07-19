@@ -42,15 +42,15 @@ gerelateerd met StUF-ZKN 3.10:
   *(actuele versie: 1.2)*
 - [Documentcreatieservices](https://vng-realisatie.github.io/Documentcreatieservices/)
   *(actuele versie: 1.1)*
-- <span style="color:red">Toezicht- en Handhavenservices</span>
+- [Toezicht- en Handhavenservices](https://vng-realisatie.github.io/Toezicht-en-Handhavenservices/)
   *(actuele versie: 2.0)*
 - [StUF Jeugdzorg (CORV)](https://vng-realisatie.github.io/StUF-Jeugdzorg/)
   *(actuele versie: 1.0)*
-- <span style="color:red">Regie- en zaakservices</span> *(actuele
+- [Regie- en zaakservices](https://vng-realisatie.github.io/Regie-en-zaakservices/) *(actuele
   versie: 1.0)*
-- <span style="color:red">Wabo-BAG services</span> *(actuele versie:
+- [Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services/) *(actuele versie:
   1.0)*
-- <span style="color:red">Sectormodel e-Formulieren: StUF-EF</span> *(actuele
+- [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) *(actuele
   versie: 3.15)*
 
 In het voorjaar van 2021 verwachten wij patch 30 van StUF-ZKN 3.10 te
