@@ -28,7 +28,7 @@ Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF-ZKN
 
 ## StUF-ZKN 3.10
 
-StUF-ZKN 3.10 is afgeleid van de gegevensstandaard<span style="color:red">RGBZ
+StUF-ZKN 3.10 is afgeleid van de gegevensstandaard <span style="color:red">RGBZ
 1.0</span> en het bevat een aantal
 generieke berichten. Naast de generieke berichten bevat StUF-ZKN 3.10 de
 ZS-DMS-berichtencatalogus. Deze berichtencatalogus bevat specifieke
