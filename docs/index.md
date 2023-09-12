@@ -12,7 +12,7 @@ StUF Zaken (STUF-ZKN) is een berichtenstandaard opgesteld op basis van
 het Standaard Uitwisseling Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor het uitwisselen van
 gegevens die zijn beschreven in het Referentiemodel Gemeentelijke
 Basisgegevens Zakens (<span style="color:red">RGBZ 1.0</span>). STUF-ZKN is een
-standaard die voortbouwt op StUF en [StUF-BG](https://vng-realisatie.github.io/StUF-BG/) en voorziet in een
+standaard die voortbouwt op StUF 3.01 en [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/) en voorziet in een
 grote hoeveelheid berichten waarmee applicaties zaakgerelateerde
 gegevens zoals zaken, besluiten en documenten kunnen uitwisselen.
 
@@ -55,8 +55,6 @@ gerelateerd met StUF-ZKN 3.10:
   versie: 1.0)*
 - [Wabo-BAG services](https://vng-realisatie.github.io/Wabo-BAG-Services/) *(actuele versie:
   1.0)*
-- [Sectormodel e-Formulieren: StUF-EF](https://vng-realisatie.github.io/StUF-EF/) *(actuele
-  versie: 3.15)*
 
 In het voorjaar van 2021 verwachten wij patch 30 van StUF-ZKN 3.10 te
 publiceren zodat deze o.a. weer aansluit bij BAG 2.0. Volg voor de
