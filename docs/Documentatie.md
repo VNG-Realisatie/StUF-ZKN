@@ -2,21 +2,21 @@
 layout: page-with-side-nav
 title: Documentatie StUF-ZKN
 folder_files:
-  - title: Extra-elementen_voor_zkn0310.zip
+  - title: Extra-elementen_voor_zkn0310 (zip)
     path: documenten/Extra-elementen_voor_zkn0310.zip
     group: 310
     versie: 3-12-2021
     status: Definitief
     omschrijving: 
     datum: 20211208
-  - title: KeuzenVerStUFfing_RGBZ.pdf
+  - title: KeuzenVerStUFfing_RGBZ (pdf)
     path: KeuzenVerStUFfing_RGBZ.pdf
     group: 310
     versie: 1.15
     status: Definitief
     omschrijving: 
     datum: 20170701
-  - title: Zkn0310_20211208_patch32.zip
+  - title: Zkn0310_20211208_patch32 (zip)
     path: documenten/Zkn0310_20211208_patch32.zip
     group: 310
     versie: 32
