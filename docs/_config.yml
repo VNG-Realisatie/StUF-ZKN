@@ -14,6 +14,8 @@ nav:
     subnav:
       - title: Overzicht
         path: /
+      - title: StUF-ZKN 3.10
+        path: /StUF-ZKN-310
       - title: Documentatie  
         path: /Documentatie
 #      - title: Werkgroep  
