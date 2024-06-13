@@ -6,7 +6,8 @@ title: StUF-ZKN
 
 **Actuele versie:** 3.10  
 **Beheerder:**  VNG Realisatie<br/>
-**Afkorting:**  StUF-ZKN
+**Afkorting:**  StUF-ZKN<br/>
+**Status:** In gebruik
 
 StUF Zaken (STUF-ZKN) is een berichtenstandaard opgesteld op basis van
 het Standaard Uitwisseling Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor het uitwisselen van
