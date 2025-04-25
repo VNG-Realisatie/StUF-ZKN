@@ -7,7 +7,7 @@ folder_files:
     group: 310
     versie: 33
     status: Definitief
-    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 32 van StUF-ZKN 3.10 inclusief alle bij de StUF 3.01 onderlaag en StUF-BG 3.10 horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-ZKN 3.10 horende extraElementen.
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-ZKN 3.10 inclusief alle bij de StUF 3.01 onderlaag en StUF-BG 3.10 horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-ZKN 3.10 horende extraElementen.
     datum: 20250321
   - title: KeuzenVerStUFfing RGBZ (pdf)
     path: KeuzenVerStUFfing_RGBZ.pdf
