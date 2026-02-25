@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Documentatie StUF-ZKN
 folder_files:
   - title: Zkn0310 20250825 patch33 (zip)
-    path: documenten/Zkn0310_20250825_patch33.zip
+    path: documenten/zkn0310_20250825_patch33.zip
     group: 310
     versie: 33
     status: Definitief
